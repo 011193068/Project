@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        
+        <meta charset="utf-8">
+        <meta name= "author" content="abc,def">
+<!--        <meta http-equiv="referesh" content="30000"> -->
+        <title>Title</title>
+      <style>
+      table, th, td {
+      padding: 10px;
+      border: 1px solid black; 
+      border-collapse: collapse;
+      }
+        </style>
+        <link rel ="stylesheet" href="sample.css">
+        
+ <!--        <script>
+            /*your javascript codes*/
+        </script>
+       <script src="sample.js"></script>-->
+        <link rel="icon" href="favicon.ico">
+        
+    </head>
+    
+    <body>
+        
+       
+        
+        <main>
+            <form action="#" method="post" target="_self">
+               <h1 style="text-align: center;">Maisha Maliha</h1>
+<p>Contact: 01840500308 <img src="Profile.jpg" width="180" height="180" align="right"><br>Address: Monico Krishnochura, Dhanmondi, Dhaka<br>Email: maishamaliha242000@gmail.com</p>
+                <h4>Career Objectives</h4>
+                <p>Computer science student with aptitude to develop my potentials while performing the necessary tasks in order to seek a job in IT sector.</p>
+                
+                <h4>Education:</h4>
+
+                <table style="width: 100%;text-align: center;">
+                    <thead>
+                        <tr>
+                            <th>Certification</th>
+                            <th>Boards/Institutes</th>
+                            <th>Passing Year</th>
+                            <th>CGPA</th>
+                        </tr>
+                    </thead>
+                    
+                    <tbody>
+                        <tr>
+                            <td>BSc in CSE</td>
+                            <td>UIU</td>
+                            <td>Running</td>
+                            <td>Running</td>
+                        </tr>
+                        <tr>
+                            <td>O Levels</td>
+                            <td>European Standard School</td>
+                            <td>2017</td>
+                            <td>5</td>
+                        </tr>
+                        <tr>
+                            <td>A Levels</td>
+                            <td>European Standard School</td>
+                            <td>2019</td>
+                            <td>4</td>
+                        </tr>
+                    </tbody>
+                    
+                  
+                </table>
+                
+<h4>Hobbies:</h4>
+                <p style="text-align:center;"><span style="float:left;">
+         Cooking<br> Drawing<br> Sketching
+    </span> Singing<br> Reading<br> Baking<br> </p>
+<h4>Profile Link:</h4>
+                <p style="text-align:center;"><a href="https://www.facebook.com/maisha242000">Facebook</a><br> <a href="www.github.com">Github</a></p>
+<h4>Extra Curriculum Activities:</h4>
+                <p>Playing Badminton and Tennis<br>Volunteering for social cause</p>
+                
+               <h4>Some of my Sketches:</h4>
+                <p style="text-align:center;"><img src="s1.jpg"  width="200"
+         height="200">          <img src="s2.jpg"  width="200"
+         height="200"> <img src="s3.jpg"  width="200"
+         height="200"> <img src="s4.jpg"  width="200"
+         height="200"> </p>
+            </form>
+            
+        </main>
+        
+        <footer></footer>
+        
+    </body>
+</html>
